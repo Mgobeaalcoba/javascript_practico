@@ -1,0 +1,15 @@
+Responde las siguientes preguntas en la sección de comentarios:
+
+¿Qué es una función?
+
+Las funciones nos permiten encapsular (guardar) bloques de código para reutilizarlos y ejecutarlos en el futuro.
+
+¿Cuándo me sirve usar una función en mi código?
+
+Nos sirve cuando tenemos variables o bloques de código muy parecidos (con cambios que podrían ser parámetros y argumentos) que podemos encapsular para reutilizar más de una vez en el futuro.
+
+También nos sirve para ordenar y mejorar la legibilidad de nuestro código.
+
+¿Cuál es la diferencia entre parámetros y argumentos de una función?
+
+las funciones reciben parámetros cuando las creamos. Y les enviamos argumentos cuando las ejecutamos.
