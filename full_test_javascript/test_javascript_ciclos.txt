@@ -1,6 +1,6 @@
 ¿Qué es un ciclo?
 
-Un ciclo es un fragmento de codigo que se va a repetir de forma ciclica. Su diración puede estar predefinida como en los ciclos for o puede depender del cumplimiento de una o mas condiciones como en el ciclo while
+Un ciclo es un fragmento de codigo que se va a repetir de forma ciclica. Su duración puede estar predefinida como en los ciclos for o puede depender del cumplimiento de una o mas condiciones como en el ciclo while
 
 ¿Qué tipos de ciclos existen en JavaScript?
 

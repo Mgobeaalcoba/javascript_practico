@@ -6,9 +6,13 @@ Un array es un arreglo o conjunto de datos agrupados dentro de una misma variabl
 
 Un objeto es el instanciamiento de una clase. Es una forma concreta que asume una abstracción llamada clase. Sirve para elaborar de forma simple y agil multiples instancias cuando se las necesita.
 
+Un objeto tiene una estructura muy similar a la de un diccionario en Python. Son pares de keys and values. 
+
 ¿Cuándo es mejor usar objetos o arrays?
 
 Como explicaba arriba los objetos se usan cuando no tenemos predefinida la cantidad de instancias que vamos a necesitar en nuestro programa de una variable. Los arrays se usan para agrupar en una unica variable una multiplicidad de otras. Incluidos los objetos como tales pueden ser guardados dentro de un array. 
+
+Arrays cuando lo que haremos en un elemento es lo mismo que en todos los demás (la regla se puede incumplir). Mientras que un objeto cuando los nombres de cada elemento son importantes para nuestro algoritmo. 
 
 ¿Puedo mezclar arrays con objetos o incluso objetos con arrays?
 
