@@ -1,0 +1,61 @@
+¿Qué es una variable y para qué sirve?
+
+Una variable es una reserva de espacio en memoria. Sirve para alojar, cuando lo creamos necesario datos en las mismas y poder usarlos en nuestros programas.
+
+¿Cuál es la diferencia entre declarar e inicializar una variable?
+
+Declarar una variable es reservar el espacio en memoria. Inicializar una variable es asignarle un valor a ese espacio en memoria. 
+
+¿Cuál es la diferencia entre sumar números y concatenar strings?
+
+Ambos se realizan con el signo "+" pero en el primer caso se está trabajando con un tipo de dato numerico mientras que en el segundo caso se está realizando con un tipo de dato String. 
+
+¿Cuál operador me permite sumar o concatenar?
+El operador para sumar y/o concatenar es "+"
+
+Determina el nombre y tipo de dato para almacenar en variables la siguiente información:
+
+Nombre -> var nombre: String
+Apellido -> var apellido: String
+Nombre de usuario en Platzi -> var nombreUsuario: String
+Edad -> var edad: Number
+Correo electrónico -> var correoElectronico: String
+Mayor de edad -> var mayorEdad: Boolean
+Dinero ahorrado -> var dineroAhorrado: Number
+Deudas -> var deudas: Number
+
+Traduce a código JavaScript las variables del ejemplo anterior y deja tu código en los comentarios.
+
+var nombre
+var apellido
+var nombreUsuario
+var edad
+var correoElectronico
+var mayorEdad
+var dineroAhorrado
+var deudas
+
+ó 
+
+let nombre
+let apellido
+let nombreUsuario
+let edad
+let correoElectronico
+let mayorEdad
+let dineroAhorrado
+let deudas
+
+ó (Si no se van a modificar luego)
+
+const nombre
+const apellido
+const nombreUsuario
+const edad
+const correoElectronico
+const mayorEdad
+const dineroAhorrado
+const deudas
+
+
+
