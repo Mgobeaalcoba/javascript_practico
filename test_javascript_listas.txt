@@ -1,0 +1,15 @@
+¿Qué es un array?
+
+Un array es un arreglo o conjunto de datos agrupados dentro de una misma variable. Son considerados objetos en JavaScrip
+
+¿Qué es un objeto?
+
+Un objeto es el instanciamiento de una clase. Es una forma concreta que asume una abstracción llamada clase. Sirve para elaborar de forma simple y agil multiples instancias cuando se las necesita.
+
+¿Cuándo es mejor usar objetos o arrays?
+
+Como explicaba arriba los objetos se usan cuando no tenemos predefinida la cantidad de instancias que vamos a necesitar en nuestro programa de una variable. Los arrays se usan para agrupar en una unica variable una multiplicidad de otras. Incluidos los objetos como tales pueden ser guardados dentro de un array. 
+
+¿Puedo mezclar arrays con objetos o incluso objetos con arrays?
+
+Si efectivamente puedo tener arrays de objetos como explicaba arriba y puede tener objetos con atributos que sean arrays. 
