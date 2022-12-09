@@ -20,4 +20,4 @@ btn.addEventListener('click', sumarInputValues) // El nombre de la función como
 
 // Las funciones pueden ir abajo ya que según el hoisting en JS las funciones se corren primero junto con las variables mas allá de donde las hayamos ubicado. 
 
-
+// Con esto aprendimos a interactuar con los usuarios desde el frontend. Luego aprenderemos a interactuar con el backend desde el frontend.
