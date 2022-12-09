@@ -1,0 +1,4 @@
+Para ignorar archivos o carpetas especificos: 
+Ej:
+.DS_Store // Archivo
+.vscode // Carpeta
